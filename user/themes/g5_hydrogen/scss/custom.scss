@@ -31,7 +31,7 @@ h1.cities {
 }
 
 @media screen and (max-width: 600px) {
-  h1.cities {
+  div.cities {
     visibility: hidden;
   }
 }
