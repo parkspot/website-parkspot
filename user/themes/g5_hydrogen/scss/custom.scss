@@ -29,3 +29,9 @@ h1.cities {
   text-align: center;
   font-weight: 700;
 }
+
+@media screen and (max-width: 600px) {
+  h1.cities {
+    visibility: hidden;
+  }
+}
